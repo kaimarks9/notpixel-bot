@@ -6,3 +6,4 @@ fake_useragent
 urllib3==1.26.12
 python-dotenv==0.21.0
 selenium~=4.25.0
+setprotittle
