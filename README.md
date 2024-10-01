@@ -26,7 +26,7 @@ Virtual Environment (Optional, but recommended)
 
 ```bash
 git clone https://github.com/kaimarks9/notpixel-bot.git
-cd NotPixel
+cd notpixel
 ```
 ```bash
 pip install -r requirements.txt
@@ -35,21 +35,17 @@ pip install -r requirements.txt
 python bot.py
 ```
 ## Contributing
-
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Configuration
-
 - Add `query_id=xxxx` or `user_id=xxxx` to `data.txt`.
 
 ## Need Support?
-
 [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/kaimarks9)
 
 ## Register Link
 [NotPixel](https://t.me/notpixel/app?startapp=f5791227811)
 
 ## Support My Work
-
 [<img
 src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">](https://trakteer.id/kaimarks9)
