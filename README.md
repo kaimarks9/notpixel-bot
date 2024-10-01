@@ -7,8 +7,8 @@ NotPixel is a decentralized pixel mining and rendering application where users c
 This is for education purpose only, use with ur own risk!
 
 ## MUST READ!
-IF ANY WARNING LIKE THIS : Request failed 391949: Expecting value: line 1 column 1 (char 0)
-JUST IGNORE IT!
+[!] IF ANY WARNING LIKE THIS : Request failed xxxxx: Expecting value: line 1 column 1 (char 0)
+[1] JUST IGNORE IT!
 
 ## Features
 - Pixel Mining: Allows users to mine and earn pixel resources.
