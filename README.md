@@ -6,12 +6,15 @@ NotPixel is a decentralized pixel mining and rendering application where users c
 ## Disclaimer!
 This is for education purpose only, use with ur own risk!
 
-[Features]
+## MUST READ!
+IF ANY WARNING LIKE THIS : Request failed 391949: Expecting value: line 1 column 1 (char 0)
+JUST IGNORE IT!
 
-[x] Pixel Mining: Allows users to mine and earn pixel resources.
-[x] Pixel Interaction: Fetch and update pixel colors from the shared canvas.
-[x] User Data Tracking: Check user balances and mining statuses.
-[x] Authentication: Integrates secure API access using token-based authentication.
+## Features
+- Pixel Mining: Allows users to mine and earn pixel resources.
+- Pixel Interaction: Fetch and update pixel colors from the shared canvas.
+- User Data Tracking: Check user balances and mining statuses.
+- Authentication: Integrates secure API access using token-based authentication.
 
 ## Prerequisites
 Before setting up the project, ensure you have the following:
