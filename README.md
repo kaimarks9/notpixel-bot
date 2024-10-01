@@ -1,5 +1,5 @@
 ## NotPixel
-![badge](https://img.shields.io/badge/version-1.0.-blue)
+![badge](https://img.shields.io/badge/version-1.0-blue)
 
 NotPixel is a decentralized pixel mining and rendering application where users can interact with a canvas grid by fetching and updating pixel colors. It provides an API to check pixel status and track mining activity. This project aims to be a playful blockchain-based experience, allowing users to participate in a shared visual creation.
 
