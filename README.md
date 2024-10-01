@@ -8,10 +8,10 @@ This is for education purpose only, use with ur own risk!
 
 ## Features
 
-[x]Pixel Mining: Allows users to mine and earn pixel resources.
-[x]Pixel Interaction: Fetch and update pixel colors from the shared canvas.
-[x]User Data Tracking: Check user balances and mining statuses.
-[x]Authentication: Integrates secure API access using token-based authentication.
+[x] Pixel Mining: Allows users to mine and earn pixel resources.
+[x] Pixel Interaction: Fetch and update pixel colors from the shared canvas.
+[x] User Data Tracking: Check user balances and mining statuses.
+[x] Authentication: Integrates secure API access using token-based authentication.
 
 ## Prerequisites
 Before setting up the project, ensure you have the following:
