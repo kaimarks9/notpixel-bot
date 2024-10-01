@@ -6,7 +6,7 @@ NotPixel is a decentralized pixel mining and rendering application where users c
 ## Disclaimer!
 This is for education purpose only, use with ur own risk!
 
-## Features
+[Features]
 
 [x] Pixel Mining: Allows users to mine and earn pixel resources.
 [x] Pixel Interaction: Fetch and update pixel colors from the shared canvas.
@@ -22,7 +22,7 @@ Virtual Environment (Optional, but recommended)
 ## Installation
 
 ```bash
-git clone https://github.com/kaimarks9/NotPixel-bot.git
+git clone https://github.com/kaimarks9/notpixel-bot.git
 cd NotPixel
 ```
 ```bash
